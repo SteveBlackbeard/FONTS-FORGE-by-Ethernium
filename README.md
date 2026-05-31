@@ -1,10 +1,22 @@
+<p align="center">
+  <img src="ethernium_sheet_hq.png" alt="Ethernium Font Forge Specimen Sheet">
+</p>
+
 # 🛠️ FONTS FORGE by Ethernium
 
-![Ethernium Specimen Sheet](ethernium_sheet_hq.png)
+[![Font Forge Validator](https://github.com/SteveBlackbeard/FONTS-FORGE-by-Ethernium/actions/workflows/validate_font.yml/badge.svg)](https://github.com/SteveBlackbeard/FONTS-FORGE-by-Ethernium/actions/workflows/validate_font.yml)
+[![Version](https://img.shields.io/badge/version-4.0-blueviolet)](https://github.com/SteveBlackbeard/FONTS-FORGE-by-Ethernium/releases)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/SteveBlackbeard/FONTS-FORGE-by-Ethernium/blob/main/LICENSE.txt)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Pages](https://img.shields.io/badge/demo-GitHub%20Pages-orange)](https://steveblackbeard.github.io/FONTS-FORGE-by-Ethernium/tools.html)
 
-A professional, state-of-the-art toolkit to **design, compile, and visualize custom vector fonts** starting from simple hand-drawn or grid-based raster specimen sheets (PNG).
+#### Languages
 
-Built with forensic-grade precision and cyberpunk aesthetics.
+[![ES](https://img.shields.io/badge/ES-white)](https://github.com/SteveBlackbeard/FONTS-FORGE-by-Ethernium/blob/main/OTHER_LANGUAGES/README_es.md) [![EN](https://img.shields.io/badge/EN-white)](https://github.com/SteveBlackbeard/FONTS-FORGE-by-Ethernium/blob/main/README.md) [![JA](https://img.shields.io/badge/JA-white)](https://github.com/SteveBlackbeard/FONTS-FORGE-by-Ethernium/blob/main/OTHER_LANGUAGES/README_ja.md) [![ZH](https://img.shields.io/badge/ZH-white)](https://github.com/SteveBlackbeard/FONTS-FORGE-by-Ethernium/blob/main/OTHER_LANGUAGES/README_zh.md) [![RU](https://img.shields.io/badge/RU-white)](https://github.com/SteveBlackbeard/FONTS-FORGE-by-Ethernium/blob/main/OTHER_LANGUAGES/README_ru.md) [![FR](https://img.shields.io/badge/FR-white)](https://github.com/SteveBlackbeard/FONTS-FORGE-by-Ethernium/blob/main/OTHER_LANGUAGES/README_fr.md) [![IT](https://img.shields.io/badge/IT-white)](https://github.com/SteveBlackbeard/FONTS-FORGE-by-Ethernium/blob/main/OTHER_LANGUAGES/README_it.md) [![DE](https://img.shields.io/badge/DE-white)](https://github.com/SteveBlackbeard/FONTS-FORGE-by-Ethernium/blob/main/OTHER_LANGUAGES/README_de.md) [![PT](https://img.shields.io/badge/PT-white)](https://github.com/SteveBlackbeard/FONTS-FORGE-by-Ethernium/blob/main/OTHER_LANGUAGES/README_pt.md) [![KO](https://img.shields.io/badge/KO-white)](https://github.com/SteveBlackbeard/FONTS-FORGE-by-Ethernium/blob/main/OTHER_LANGUAGES/README_ko.md) [![AR](https://img.shields.io/badge/AR-white)](https://github.com/SteveBlackbeard/FONTS-FORGE-by-Ethernium/blob/main/OTHER_LANGUAGES/README_ar.md)
+
+**"Your glyphs, forged into vectors."**
+
+*A professional toolkit to design, compile, and visualize custom vector fonts from hand-drawn or grid-based raster specimen sheets.*
 
 ---
 
@@ -21,6 +33,8 @@ Built with forensic-grade precision and cyberpunk aesthetics.
 ---
 
 ## 🌐 Interactive Web Tools
+
+> 🔗 **[Try them live on GitHub Pages →](https://steveblackbeard.github.io/FONTS-FORGE-by-Ethernium/tools.html)**
 
 | Tool | Description |
 |------|-------------|
